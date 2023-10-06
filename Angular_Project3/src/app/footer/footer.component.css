@@ -167,3 +167,7 @@ body{
     margin-left: auto;
     max-width: 1140px;
 }
+#riscado{
+    text-decoration: line-through;
+    
+}
